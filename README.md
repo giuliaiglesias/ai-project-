@@ -12,7 +12,7 @@ The HTML uses meaningful sections and a navigation menu. CSS Grid puts the every
 
 ## AI assistance
 
-Giulia wrote the initial ideas about saving time, creativity, dependence and developing our abilities. ChatGPT helped correct and expand the writing, link factual content to sources and generate the HTML and CSS. Source checks were supported by AI. The student author should review the sources, understand the code and test the final published page before submission.
+I wrote the initial ideas about saving time, creativity, dependence and developing our abilities. ChatGPT helped correct and expand the writing, link factual content to sources and generate the HTML and CSS. Source checks were supported by AI. The student author should review the sources, understand the code and test the final published page before submission.
 
 ## Update the existing website
 
